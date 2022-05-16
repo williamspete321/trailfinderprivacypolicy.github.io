@@ -1,4 +1,4 @@
-
+# Trail Finder Privacy Policy
 This privacy policy governs your use of the software application Trail Finder (“Application”) for mobile devices that was created by Amboseli Apps, and developer Peter Williams. The Application finds hiking trails near the user’s location and provides helpful information about the hiking trails.
 
 ## What information does the Application obtain and how is it used?
